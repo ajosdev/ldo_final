@@ -1,4 +1,4 @@
-### Information disclosure
+# Information disclosure
 
 A divulgação de informações, também conhecida como vazamento de informações, ocorre quando um site da Web revela, sem querer, informações confidenciais a seus usuários. Dependendo do contexto, os sites podem vazar todos os tipos de informações para um invasor potencial, incluindo:
 
