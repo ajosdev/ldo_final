@@ -9,4 +9,6 @@ A injeção de SQL é uma vulnerabilidade de segurança da web que permite que u
 [[!] Acesse o laboratório](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data)
 
 Solução
+
+
 [![Watch the video](https://img.youtube.com/vi/GxYsM3X5u0I/0.jpg)](https://youtu.be/GxYsM3X5u0I)
