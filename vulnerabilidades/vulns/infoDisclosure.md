@@ -6,7 +6,7 @@ A divulgação de informações, também conhecida como vazamento de informaçõ
 - Dados comerciais ou empresariais confidenciais
 - Detalhes técnicos sobre o site e sua infraestrutura
 
-![infodis](information-disclosure-.jpg)
+![infodis](../../img/information-disclosure-.jpg)
 
 [Leia mais](https://portswigger.net/web-security/information-disclosure)
 

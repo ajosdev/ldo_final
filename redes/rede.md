@@ -4,7 +4,7 @@
 
 Protocolo de Controle de Transmissão é um dos protocolos de comunicação, da camada de transporte da rede de computadores do Modelo OSI, que dão suporte a rede global Internet, verificando se os dados são enviados na sequência correta e sem erros via rede. É complementado pelo protocolo da Internet, normalmente chamado de, TCP/IP.
 
-![OSI model image](TCP_IP.webp)
+![OSI model image](../img/TCP_IP.webp)
 
 [Ler mais](https://pt.wikipedia.org/wiki/Transmission_Control_Protocol)
 ou
@@ -14,7 +14,7 @@ ou
 
  Através da utilização desse protocolo, pode-se enviar datagramas de uma máquina à outra, mas sem garantia de que os dados enviados chegarão intactos e na ordem correta. Além do mais, o UDP é um protocolo que não é voltado à conexão.
 
- ![TCP vs UDP](TCP-vs-UDP.jpg)
+ ![TCP vs UDP](../img/TCP-vs-UDP.jpg)
 
 [[!] Sujestão de leitura](https://www.alura.com.br/artigos/quais-as-diferencas-entre-o-tcp-e-o-udp)
 
@@ -24,7 +24,7 @@ O IPv4 é um protocolo sem conexão, para utilização de comutação de pacotes
 
 O IPv4 utiliza endereços de 32 bits, o que limita o espaço de endereço para 4294967296 (232) endereços.Datagrama:
 
-![IPV4](ipv4.png)
+![IPV4](../img/ipv4.png)
 
 [Ler mais](http://jkolb.com.br/protocolo-ip-ipv4-e-ipv6/)
 ou

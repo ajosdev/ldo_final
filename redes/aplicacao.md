@@ -6,7 +6,7 @@ Os servidores DNS (Domain Name System, ou sistema de nomes de domínios) são os
 
 Imagine ter que acessar seus sites preferidos através de números de IP (Internet Protocol), memorizando sequências de números para cada um deles. Conseguiríamos acessar meia dúzia deles no máximo, mais ou menos a mesma quantidade de números de telefone que conseguimos memorizar, não é?
 
-![DNS](dns.png)
+![DNS](../img/dns.png)
 
 [Ler mais](https://canaltech.com.br/internet/o-que-e-dns/)
 ou
@@ -47,7 +47,7 @@ O protocolo HTTP define um conjunto de métodos de requisição responsáveis po
 
 HTTPS (Hyper Text Transfer Protocol Secure - protocolo de transferência de hipertexto seguro) é uma implementação do protocolo HTTP sobre uma camada adicional de segurança que utiliza o protocolo SSL/TLS.
 
-![DNS](http_to_https-1.jpg)
+![DNS](../img/http_to_https-1.jpg)
 
 [[!] Sujestão de leitura](https://www.alura.com.br/artigos/qual-e-diferenca-entre-http-e-https)
 
