@@ -9,4 +9,6 @@ Cross-site scripting (também conhecido como XSS) é uma vulnerabilidade de segu
 [[!] Acesse o laboratório](https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded)
 
 Solução
+
+
 [![Watch the video](https://img.youtube.com/vi/iOm_gsdVHpU/0.jpg)](https://youtu.be/iOm_gsdVHpU)
