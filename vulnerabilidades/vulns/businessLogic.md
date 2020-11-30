@@ -9,4 +9,6 @@ Vulnerabilidades de lógica de negócios são falhas no design e na implementaç
 [[!] Acesse o laboratório](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-in-error-messages)
 
 Solução
+
+
 [![Watch the video](https://img.youtube.com/vi/Nmlo5qj-G3g/0.jpg)](https://youtu.be/Nmlo5qj-G3g)
