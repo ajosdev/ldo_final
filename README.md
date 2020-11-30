@@ -33,9 +33,9 @@ Conhecer bem as tecnologias da web é a base para protejer os sistemas de invaso
 
 ### Como se informar sobre vulnerabilidades já descobertas por pesquisadores ?
 
-- [O que é CVE](vulnerabilidades/info/cve.md)
+- [O que é CVE ?](vulnerabilidades/info/cve.md)
 
-- [O que é exploit](vulnerabilidades/info/exploit.md)
+- [O que é exploit ?](vulnerabilidades/info/exploit.md)
 
 ## Hora de praticar !
 ### Algumas falhas comuns
